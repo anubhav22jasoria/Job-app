@@ -1,3 +1,10 @@
+*{
+margin:0;
+padding:0;
+}
+
+
+
 body {
     background-color:#1e96fc; /* Bootstrap primary blue */
     color: #fff; /* Text color for better contrast on the blue background */
@@ -16,5 +23,7 @@ body {
 	background-color: #ffffff;
 	border-radius: 10px;
 }
+
+
 
 
